@@ -1,2 +1,2 @@
 # IoTea
-Never again will you have to manually make a cuppa. 
+Never again will you have to manually make a cuppa. Tutorial comin' soon! 
