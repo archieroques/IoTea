@@ -12,8 +12,8 @@ valve = gpiozero.LED(26)
 kettle = gpiozero.LED(5)
 
 HOSTNAME = 'imap.gmail.com'
-USERNAME = 'tams.tea.machine'
-PASSWORD = 'e6oloartluE'
+USERNAME = 'YOUR_GMAIL_USERNAME'
+PASSWORD = 'YOUR_GMAIL_PASSWORD'
 MAILBOX = 'Inbox'
 
 pumpdelay = 22 #time in secs for the pump to fill a cup of water
